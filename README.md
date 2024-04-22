@@ -7,17 +7,17 @@
 </p>
 
 <p align="center">
-  Web Developer | Former Developer for Launcher Leaks | Livery Developer | Discord Bot Developer
+  Web Developer | Former Developer for Launcher Leaks | Former Livery Developer | Discord Bot Developer
 </p>
 
 <p align="center">
   <a href="https://github.com/sxintwtf">
-    <img src="https://github-readme-stats.vercel.app/api?username=sxintwtf&show_icons=true&theme=radical" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=saintwtf&show_icons=true&theme=radical" alt="GitHub Stats">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://sxint.vercel.app">
+  <a href="https://esex.vercel.app">
     <img src="https://img.shields.io/badge/Website-red?style=flat-square&logo=vercel" alt="website">
   </a>
 </p>
