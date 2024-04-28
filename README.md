@@ -22,11 +22,12 @@
 
 
 <p align="center">
-<a><code>esex.bio</code></a>
+<a><code>drilla.lol</code></a>
 </p>
 
 <p align="center">
-  <a href="https://esex.vercel.app">
+  <a href="https://drilla.lol/saint
+    ">
     <img src="https://th.bing.com/th/id/R.43d973ac334ab2d7976e14c11c796d27?rik=gb7iK9XmzNFSJg&pid=ImgRaw&r=0" alt="Website" width="25">
   </a>
 </p>
