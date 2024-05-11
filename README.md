@@ -2,7 +2,7 @@
   <img src="https://cdn.discordapp.com/avatars/1215522544564703323/dcef3a73ea262cf6a77aa4c93efbf553.png?size=512&format=webp&quality=lossless&width=0&height=256" height="100">
 </p>
 
-<p align="center"><b><code>Web Developer | Former Developer for Launcher Leaks | Former Livery Developer | Discord Bot Developer</b></p>
+<p align="center"><b>Web Developer | Former Developer for Launcher Leaks | Former Livery Developer | Discord Bot Developer</b></p>
 
 <p align="center">
   <a href="https://discord.com/users/1215522544564703323"><img src="https://lanyard-profile-readme.vercel.app/api/1215522544564703323?bg=00000000&hideActivity=true&" /></a>
