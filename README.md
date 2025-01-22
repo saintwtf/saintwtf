@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGIzbXJwYXdiZ2U3M3ZlZzR1MDIxZXg1bG1xMWg3ZXo1MTlubDF3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/May98cOU28SNHmwq4d/giphy.gif" height="100">
+  ![giphy](https://github.com/user-attachments/assets/c97be783-a896-4c10-b6b7-94c769455081)
 </p>
 
 <p align="center"><b>Web Developer | Former Developer for Launcher Leaks | Former Livery Developer | Discord Bot Developer</b></p>
