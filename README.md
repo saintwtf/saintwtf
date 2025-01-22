@@ -1,5 +1,4 @@
-<p align="center">
-  ![giphy](https://github.com/user-attachments/assets/c97be783-a896-4c10-b6b7-94c769455081)
+<p ![giphy](https://github.com/user-attachments/assets/1d381968-fd23-4667-b1c0-39b2e7487e54)
 </p>
 
 <p align="center"><b>Web Developer | Former Developer for Launcher Leaks | Former Livery Developer | Discord Bot Developer</b></p>
